@@ -14,4 +14,4 @@ Imports the tracks of Fatal Racing directly from the game files
 | Material Import | ✅ |
 
 ## Blender Extensions
-https://extensions.blender.org/approval-queue/io-import-fatal-racing/
+[Blender Extensions](https://extensions.blender.org/add-ons/io-import-fatal-racing/)
